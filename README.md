@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 # Juntong Jia
 
 - Affiliation: Xiaohongshu
-- Email: 你的完整公司邮箱
+- Email: jiajuntong@xiaohongshu.com
 -->
